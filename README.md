@@ -1,5 +1,5 @@
 The goal of this assignment was to create a GUI which utlises classes and files themed around a blockworld. The GUI displays the game world and has options for users to interact with the
-world. The block world in this assignment includes:
+world. The block world in this assignment includes: 
   • a set of tiles containing blocks,
   • a variety of different block types, and
   • a character (a builder) who can manipulate the blocks.
